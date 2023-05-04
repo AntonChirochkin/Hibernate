@@ -1,3 +1,7 @@
+package service;
+
+import hibernate.model.Employee;
+
 import java.util.List;
 
 public interface EmployeeDao {

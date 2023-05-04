@@ -1,3 +1,5 @@
+package hibernate.model;
+
 import lombok.*;
 
 import javax.persistence.*;

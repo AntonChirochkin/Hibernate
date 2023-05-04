@@ -1,3 +1,6 @@
+import hibernate.model.Employee;
+import service.EmployeeDao;
+import service.EmployeeDaoImpl;
 
 public class Application {
     public static void main(String[] args) {

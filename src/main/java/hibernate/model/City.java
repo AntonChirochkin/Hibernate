@@ -1,3 +1,5 @@
+package hibernate.model;
+
 import lombok.*;
 @AllArgsConstructor
 @NoArgsConstructor
