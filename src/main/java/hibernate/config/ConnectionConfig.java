@@ -24,7 +24,7 @@ public class ConnectionConfig {
         Properties properties;
         Connection connection;
         try {
-            properties = loadProperties("application.properties");
+            properties =  loadProperties("application.properties");
             String user = properties.getProperty("datasource.username");
             String password = properties.getProperty("datasource.password");
             String url = properties.getProperty("datasource.url");
