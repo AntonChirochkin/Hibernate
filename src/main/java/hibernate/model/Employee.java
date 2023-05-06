@@ -26,5 +26,5 @@ public class Employee {
     @Column(name = "age")
     private int age;
     @Column(name = "city_id")
-    private int city;
+    private Integer city;
 }
